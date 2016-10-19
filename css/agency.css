@@ -18,7 +18,7 @@ p {
   line-height: 1.75;
 }
 p.large {
-  font-size: 16px;
+  font-size: 18px;
 }
 a,
 a:hover,
@@ -482,7 +482,9 @@ section h3.section-subheading {
 .timeline .timeline-heading h4.subheading {
   text-transform: none;
 }
-.timeline .timeline-body > p,
+.timeline .timeline-body > p {
+  font-size: 18px;
+}
 .timeline .timeline-body > ul {
   margin-bottom: 0;
 }
